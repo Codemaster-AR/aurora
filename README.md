@@ -8,7 +8,7 @@ Aurora is a specialized toolset designed for bioscience applications. This repos
 
 ## 🔗 Repository Links
 
-  * **Main Tap:** [Codemaster-AR/aurora](https://github.com/Codemaster-AR/aurora)
+  * **Tap Repository:** [Codemaster-AR/homebrew-aurora](https://github.com/Codemaster-AR/homebrew-aurora)
   * **Issues:** [Report a bug](https://www.google.com/search?q=https://github.com/Codemaster-AR/aurora/issues)
 
 -----
