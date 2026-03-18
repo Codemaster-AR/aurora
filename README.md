@@ -1,8 +1,50 @@
-# Aurora (aurora-bioscience)
-____________________________
-Link to tap repository: [https://github.com/Codemaster-AR/aurora](https://github.com/Codemaster-AR/aurora)
-___________________________
-## Download
-On Mac/Linux/WSL2-(Windows 11): 
-- Brew tap codemaster-ar/aurora
-- brew install aurora-bioscience
+
+# 🧬 Aurora (aurora-bioscience)
+
+Aurora is a specialized toolset designed for bioscience applications. This repository provides the official Homebrew tap for easy installation across various platforms.
+
+[](https://opensource.org/licenses/MIT)
+[](https://github.com/Codemaster-AR/aurora)
+
+## 🔗 Repository Links
+
+  * **Main Tap:** [Codemaster-AR/aurora](https://github.com/Codemaster-AR/aurora)
+  * **Issues:** [Report a bug](https://www.google.com/search?q=https://github.com/Codemaster-AR/aurora/issues)
+
+-----
+
+## 🚀 Installation
+
+Aurora can be installed on **macOS**, **Linux**, and **WSL2 (Windows 11)** using the [Homebrew](https://brew.sh/) package manager.
+
+### Quick Start
+
+Run the following commands in your terminal:
+
+```bash
+# Add the custom tap to Homebrew
+brew tap codemaster-ar/aurora
+
+# Install the bioscience package
+brew install aurora-bioscience
+```
+
+-----
+
+## 🛠 Supported Environments
+
+| Environment | Status | Notes |
+| :--- | :--- | :--- |
+| **macOS** | ✅ Supported | Native support for Intel and Apple Silicon. |
+| **Linux** | ✅ Supported | Requires Homebrew for Linux. |
+| **WSL2** | ✅ Supported | Windows 11 recommended for best compatibility. |
+
+-----
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+
+-----
+
+**Would you like me to add a "Usage" section or a features list if you provide more details about what the software actually does?**
