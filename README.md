@@ -46,5 +46,3 @@ brew install aurora-bioscience
 This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 -----
-
-**Would you like me to add a "Usage" section or a features list if you provide more details about what the software actually does?**
